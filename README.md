@@ -24,25 +24,44 @@ Os protótipos utilizados na apresentação desse projeto estão exibidos dentro
 
 - [x] **Tela de acesso 1**:   
 *Representa a página inicial, onde o usuário opta por qual perfil ele utilizará.*
-![Imagem1](imagens/tela_acesso1.png)
+![Imagem1](imagens/tela_acesso01.png)
 
 - [x] **Tela de acesso 2**:  
 *Demonstra a tela de login.*
-![Imagem2](imagens/tela_acesso2.png)
+![Imagem2](imagens/tela_acesso02.png)
 
 - [x] **Tela de acesso 3**:   
 *Ilustra as opções de pesquisa dentro da plataforma.*
-![Imagem3](imagens/tela_acesso3.png)
+![Imagem3](imagens/tela_acesso03.png)
 
 - [x] **Tela de acesso 4**:  
 *Ilustra as opções avançadas de pesquisa dentro da plataforma.*
-![Imagem4](imagens/tela_acesso4.png)
+![Imagem4](imagens/tela_acesso04.png)
 
 - [x] **Tela de acesso 5**:
 *Disponibiliza a tela de cadastro para professores, fornecedores e funcionários.*
-![Imagem5](imagens/tela_acesso5.png)
+![Imagem5](imagens/tela_acesso05.png)
 
 - [x] **Tela de acesso 6**:  
-*Representa a tela de acessos.*
-![Imagem6](imagens/tela_acesso6.png)
+*Representa a tela de unidades.*
+![Imagem6](imagens/tela_acesso06.png)
 
+- [x] **Tela de acesso 7**:  
+*Tela de acessos.*
+![Imagem7](imagens/tela_acesso07.png)
+
+- [x] **Tela de acesso 8**:  
+*Tela de ambiente do aluno.*
+![Imagem8](imagens/tela_acesso08.png)
+
+- [x] **Tela de acesso 9**:  
+*Tela de informe de presença do aluno.*
+![Imagem9](imagens/tela_acesso09.png)
+
+- [x] **Tela de acesso 10**:  
+*Tela de boletim de notas.*
+![Imagem10](imagens/tela_acesso10.png)
+
+- [x] **Tela de acesso 11**:  
+*Tela de logout.*
+![Imagem11](imagens/tela_acesso11.png)
